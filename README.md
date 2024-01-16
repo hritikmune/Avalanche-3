@@ -4,7 +4,7 @@ The peoject allows to mint, burn and transfer the amount of tokens
 
 # Using 
 
-- [*Solidity*](https://soliditylang.org/) (>= 0.8.9)
+- [*Solidity*](https://soliditylang.org/) (>= 0.8.10)
 - Ethereum development environment
 - Vanity eth
 
